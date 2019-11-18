@@ -1,0 +1,14 @@
+{
+  "displayName": "React Hooks PRO",
+  "name": "react-hooks-pro",
+  "version": "1.1.5",
+  "description": "Advanced React hooks",
+  "main": "base/index.js",
+  "repository": "https://github.com/TheMisir/react-hooks-pro",
+  "author": "Misir Jafarov",
+  "license": "Apache-2.0",
+  "private": false,
+  "dependencies": {
+    "uuid": "^3.3.3"
+  }
+}
